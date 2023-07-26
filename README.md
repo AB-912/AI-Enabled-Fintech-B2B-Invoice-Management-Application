@@ -1,1 +1,1 @@
-# Due to the huge size of the jupyter notebook and dataset , the model was not able to be uploaded in github so i have provide the link to the google drive where i had uploaded it
+# Since the Jupyter notebook and dataset were too large to be uploaded on GitHub, I've provided a link to the Google Drive where I've stored them.
