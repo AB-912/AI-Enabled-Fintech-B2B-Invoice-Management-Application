@@ -1,3 +1,7 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Application
 
-Since the Jupyter notebook and dataset were too large to be uploaded on GitHub, I've provided a link to the Google Drive where I've stored them. The Google Drive links for both jupyter notebook and dataset is provided in the ML Model file
+During my HRC internship, I took on a remarkable solo challenge — creating a cutting-edge time series forecasting model using the company's raw data provided by the company. With precision and expertise, I crafted a well-structured pipeline that encompassed crucial data processing and model building stages.
+
+Meticulous data cleaning laid the foundation for reliable insights, as I handled missing values, noise, and outliers within the time series dataset. Next, leveraging data visualization, I unraveled temporal patterns, identifying seasonality and trends that influenced forecasting performance.Empowering the model's predictive capacity, I conducted advanced feature engineering, extracting meaningful attributes from the raw data. By employing the powerful Mutual Information Regressor, I carefully selected the most informative features, streamlining the model's learning process and reducing complexity.Refining the feature set with KBest percentile selection, I ensured optimal performance, while rigorous experimentation with multiple algorithms led to the standout performer—Random Forest. Its non-linear handling of time series data made it the ideal choice for this task.
+
+This independent project showcased my prowess in time series analysis and decision-making, contributing actionable insights to the company's data-driven strategies. With a concise and impressive portfolio, I am poised to stand out and excel as a sought-after candidate for ML opportunities.
